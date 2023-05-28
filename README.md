@@ -8,4 +8,5 @@ It is an responsive webpage built by using 1.HTML 2.CSS 3.JAVASCRIPT 4.Bootstrap
 
 link for the Weather forecast Application :http://127.0.0.1:5500/index.html
 
-Sample Snippet of the project:https://github.com/EswarVarmaP/weather-forecast-app/assets/134736580/b9b4a7ce-1a46-44c8-a3ac-3db8ff6db199
+Sample Snippet of the project:https://github.com/EswarVarmaP/weather-forecast-app/assets/134736580/b7a185e1-7a99-44c1-b406-701f58b0a680
+
